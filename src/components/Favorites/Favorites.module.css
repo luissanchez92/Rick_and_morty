@@ -1,0 +1,26 @@
+.divFavorites{
+
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.selecOrder{
+    height: 30px;
+    border-radius: 10px 0px 0px 10px;
+    border: solid 2px black;
+    font-family: fantasy;
+}
+
+.selectFilter{
+    height: 30px;
+    border-radius: 0px 10px 10px 0px;
+    border: solid 2px black;
+    font-family: fantasy;
+}
+.letrasOptions{
+    font-family: fantasy;
+
+}

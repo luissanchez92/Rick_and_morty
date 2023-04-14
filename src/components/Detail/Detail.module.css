@@ -1,0 +1,9 @@
+.containerdos{
+    border: solid 2px black;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 10px;background-color: rgb(195, 230, 218);
+}
+.imagendetail{
+    border-radius: 30px;
+}
