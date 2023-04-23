@@ -1,0 +1,67 @@
+.containerNav{
+    padding: 30px;
+    border-radius: 4px;
+    box-shadow: 2px 21px 20px -4px rgba(39,205,214,0.96);
+    -webkit-box-shadow: 2px 21px 20px -4px rgba(39,205,214,0.96);
+    -moz-box-shadow: 2px 21px 20px -4px rgba(39,205,214,0.96);
+    margin-bottom: 2px;
+    display: flex;
+    align-content: stretch;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+.about{
+    border-radius: 10px;
+    width: 120px;
+    background-color: rgba(39,205,214,0.96);
+    height: 50px;
+    border: solid 2px black;
+    font-family: fantasy;
+    font-size: 20px;
+
+}
+
+
+.home{
+    border-radius: 10px;
+    width: 120px;
+    background-color:  rgba(39,205,214,0.96) ;
+    height: 50px;
+    border: solid 2px black;
+    font-family: fantasy;
+    font-size: 20px;
+    margin-left: 20px;
+
+}
+
+.logout{
+    border-radius: 10px;
+    width: 120px;
+    background-color:  rgba(39,205,214,0.96) ;
+    height: 50px;
+    border: solid 2px black;
+    font-family: fantasy;
+    font-size: 20px;
+    color: rgb(11, 5, 73);
+    margin-left: 20px;
+
+}
+
+.favorites{
+    border-radius: 10px;
+    width: 120px;
+    background-color:  rgba(39,205,214,0.96) ;
+    height: 50px;
+    border: solid 2px black;
+    font-family: fantasy;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.navlink{
+    color: rgb(11, 5, 73);
+    font-family: fantasy;
+}
