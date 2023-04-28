@@ -1,6 +1,6 @@
 import SearchBar from "../SearchBar/SearchBar";
 import style from './Nav.module.css'
-import { Link, NavLink } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 
 function Nav({onSearch, setAccess}){
 
